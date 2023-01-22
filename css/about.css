@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(28, 27, 27);
+}
+.heading{
+    color: white;
+    font-size: 90px;
+    margin: -50px 10px;
+}
+.heading about{
+    color: lightskyblue;
+    font-size: 110px;
+    font-style: italic;     
+}
+.content{
+    display: flex;
+}
+.photo img{
+    margin: -400px 0px -1000px 910px;
+    height: 1500px;
+}
+.info{
+    font-size: 22px;
+    margin: 10px -1570px;
+    color:white;
+}
+.para1{
+    margin: 20px 0px;
+}
+.para1 #name{
+    margin: 80px 0px;
+}
+.para1 #name name{
+    font-style: italic;
+    font-size: 50px;
+    color: yellowgreen;
+}
+.para2{
+    margin: 100px 0px;
+}

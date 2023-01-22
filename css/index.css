@@ -1,0 +1,129 @@
+ body{
+            background-color: rgb(28, 27, 27);
+        }
+        .container{
+            position: relative;
+            border: 10px solid white;
+            height: 700px;
+            width: 1500px;
+        }
+        .container img{
+            height: 600px;
+            width: 350px;
+            margin: 35px 0px 50px 1050px;
+            border: 15px solid white;
+        }
+        .content{
+            position: relative;
+            color: white;
+            margin: -700px 80px;
+            font-size: 100px;
+        }
+        .content #name{
+            margin: -80px 0px;
+        }
+        .content #name name{
+            font-size: 110px;
+            color: lightskyblue;
+            font-weight: bold;
+            font-style: italic;
+        }
+        
+        .content #info{
+            margin: 200px 0px;
+            font-size: 50px;
+        }
+        .content #info coder{
+            font-size: 70px;
+            color: lightskyblue;
+            font-style: italic;
+        }
+        .content #info developer{
+            font-size: 70px;
+            color: lightskyblue;
+            font-style: italic;
+        }
+        .function{
+            display: flex;
+        }
+        .about{
+            border: 10px solid white;
+            height: 340px;
+            width: 270px;
+            margin: 20px 150px;
+        }
+        .about img{
+            height: 230px;
+            width: 230px;
+            margin: 20px 20px;
+            border-radius: 50%;
+        }
+        .about p{
+            font-size: 40px;
+            color: white;
+            margin:-10px 55px;
+            font-weight: 700;
+        }
+        .about p a{
+            color: white;
+            text-decoration: none;
+        }
+        .about p a:hover{
+            background-color: yellow;
+            color: black;
+            border-radius: 40px;
+        }
+        .work{
+            border: 10px solid white;
+            height: 340px;
+            width: 270px;
+            margin: 20px 10px;
+        }
+        .work img{
+            height: 230px;
+            width: 230px;
+            margin: 20px 20px;
+            border-radius: 50%;
+        }
+        .work p{
+            font-size: 40px;
+            color: white;
+            margin:-10px 65px;
+            font-weight: 700;
+        }
+        .work p a{
+            color: white;
+            text-decoration: none;
+        }
+        .work p a:hover{
+            background-color: yellow;
+            color: black;
+            border-radius: 40px;
+        }
+        .contact{
+            border: 10px solid white;
+            height: 340px;
+            width: 270px;
+            margin: 20px 150px;
+        }
+        .contact img{
+            height: 230px;
+            width: 230px;
+            margin: 20px 20px;
+            border-radius: 50%;
+        }
+        .contact p{
+            font-size: 40px;
+            color: white;
+            margin:-10px 35px;
+            font-weight: 700;
+        }
+        .contact p a{
+            color: white;
+            text-decoration: none;
+        }
+        .contact p a:hover{
+            background-color: yellow;
+            color: black;
+            border-radius: 40px;
+        }

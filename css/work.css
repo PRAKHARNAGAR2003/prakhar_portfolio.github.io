@@ -1,0 +1,144 @@
+body{
+    background-color: rgb(28, 27, 27);
+}
+.language{
+    margin: -90px 20px;
+    display: flex;
+}
+.c-projects{
+    margin: -80px 10px;
+    font-size: 90px;
+    color: white;
+}
+.c-projects coding{
+    font-size: 110px;
+    color: lightskyblue;
+    font-style: italic;
+    font-weight: 700;
+}
+.python{
+    border: 10px solid white;
+    height: 320px;
+    width: 240px;
+    margin: 40px 30px;
+}
+.python img{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    margin: 20px 10px;
+}
+.python p {
+    margin: -33px 75px;
+    font-size: 30px;
+}
+.python p a{
+    color: yellow;
+    text-decoration: none;
+}
+.python p a:hover{
+    text-decoration: underline;
+}
+.C{
+    border: 10px solid white;
+    height: 320px;
+    width: 240px;
+    margin: 40px 30px;
+}
+.C img{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    margin: 20px 10px;
+}
+.C p {
+    margin: -30px 45px;
+    font-size: 35px;
+}
+.C p a{
+    color: yellow;
+    text-decoration: none;
+}
+.C p a:hover{
+    text-decoration: underline;
+}
+.CPP{
+    border: 10px solid white;
+    height: 320px;
+    width: 240px;
+    margin: 40px 30px;
+}
+.CPP img{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    margin: 20px 10px;
+}
+.CPP p {
+    margin: -40px 75px;
+    font-size: 30px;
+    font-weight: 530;
+}
+.CPP p a{
+    color: yellow;
+    text-decoration: none;
+}
+.CPP p a:hover{
+    text-decoration: underline;
+}
+.d-projects{
+    margin: 180px 10px;
+    font-size: 90px;
+    color: white;
+}
+.d-projects developer{
+    font-size: 110px;
+    color: lightskyblue;
+    font-style: italic;
+    font-weight: 700;
+}
+.web{
+    border: 10px solid white;
+    height: 350px;
+    width: 1300px;
+    display: flex;
+}
+.web img{
+    margin: 20px 20px;
+    height: 300px;
+    width: 300px;
+}
+.web p{
+    margin: 110px 0px;
+    font-size: 90px;
+}
+.web p a{
+    color: white;
+    text-decoration: none;
+}
+.web p a:hover{
+    text-decoration: underline;
+}
+.app{
+    border: 10px solid white;
+    height: 350px;
+    width: 1300px;
+    display: flex;
+    margin: 100px 40px 40px 0px;
+}
+.app img{
+    margin: 20px 20px;
+    height: 300px;
+    width: 300px;
+}
+.app p{
+    margin: 100px 0px;
+    font-size: 90px;
+}
+.app p a{
+    color: white;
+    text-decoration: none;
+}
+.app p a:hover{
+    text-decoration: underline;
+}
